@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/09 12:01:02.000.390,=C:\Users\igors\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 12:01:22.000.345,C:\Users\igors\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\igors\Desktop\Curso\ProjetoXml\UFrmPesquisa.dfm</Transaction>
+    <Transaction>2022/03/09 12:01:22.000.345,C:\Users\igors\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\igors\Desktop\Curso\ProjetoXml\UFrmPesquisa.pas</Transaction>
+    <Transaction>2022/03/09 12:01:30.000.975,C:\Users\igors\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\igors\Desktop\Curso\ProjetoXml\ProjectXml.dproj</Transaction>
+    <Transaction>2022/03/21 16:29:19.111,C:\Users\igors\Desktop\LeitorXml\ProjectXml.dproj=C:\Users\igors\Desktop\Curso\ProjetoXml\ProjectXml.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
